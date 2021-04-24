@@ -1,5 +1,0 @@
-Project: Optimal Career Path Finder
-
-
-
-Choosing the right career is not an easy task in anyone’s life. Peer pressure, pressure from parents, personal interests, can conflict the mind and hence, the selection process can be quite frustrating. As a result, people end up choosing wrong careers and finally, end up in jobs that they don’t love doing. So, to help the confused, this project helps them to choose the right career, the digital way. This project examines the various career paths chosen by a diverse class of people, ranging from working professionals and job seekers and try to predict, with maximal accuracy, which career path will be more suitable for the student, using machine learning algorithms.The machine learning model is built using certain rules that are observed from the data set, and generates a probabilistic output of suitable career options that he/she can apply for. In this way, the Student can choose a career in which there is a high chance that he/she will succeed with the highest degree.
