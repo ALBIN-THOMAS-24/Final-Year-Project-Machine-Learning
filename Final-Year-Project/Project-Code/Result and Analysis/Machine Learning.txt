@@ -1,0 +1,68 @@
+# Science Dataset
+1. Naive Bayes : 83%
+2. Logistic Regression : 84%
+3. Multilayer Perceptron : 92%
+4. Adaboost : 83 %
+5. Decision Tree : 88 %
+6. SVM: 87%
+7. Random Forest :  91%
+8. KNN : 76%
+
+
+# Commerce Dataset
+1. Naive Bayes: 86%
+2. Logistic Regression: 93%
+3. Multilayer Perceptron: 92%
+4. Adaboost: 83%
+5. Decision Tree: 87%
+6. SVM : 96%
+7. Random Forest: 96%
+8. KNN: 81%
+
+
+# Humanities Dataset
+1. Naive Bayes: 83%
+2. Logistic Regression: 83%
+3. Multilayer Perceptron: 91%
+4. Adaboost: 82%
+5. Decision Tree: 87%
+6. SVM: 87%
+7. Random Forest: 90%
+8. KNN : 78%
+
+
+
+
+********Final Accuracy***********
+1. Naive Bayes: 84%
+2. Logistic Regression: 86%
+3. Multilayer Perceptron: 91%
+4. Adaboost: 82%
+5. Decision Tree: 87%
+6. SVM: 90%
+7. Random Forest: 92%
+8. KNN : 78%
+*********************************
+
+
+
+
+**********Final Algorithm:***************
+
+SVM with RBF kernel
+i) Good Accuracy
+ii) Good Precision
+iii) No Overfitting
+iv) Training and Testing Accuracy Good
+*************************************
+
+
+
+
+
+
+
+
+
+
+
